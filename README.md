@@ -10,4 +10,4 @@ Repo containg kaggle work and notebooks
     * Additional evaluation on incorrect calls
   * MNIST  
     * Used KNN Classifier with 96.5% accuracy
-    * Used CNN with accuracy of 98.8% accuracy   
+    * Used CNN with accuracy of 98.5% accuracy   
