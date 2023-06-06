@@ -7,4 +7,7 @@ Repo containg kaggle work and notebooks
   * Wisconsin BRCA Classifier  
     * Used multiple classifiers to try and find best one.
     * Used simple NN
-    * Additional evaluation on incorrect calls 
+    * Additional evaluation on incorrect calls
+  * MNIST  
+    * Used KNN Classifier with 96.5% accuracy
+    * Used CNN with accuracy of 98.8% accuracy   
