@@ -10,4 +10,7 @@ Repo containg kaggle work and notebooks
     * Additional evaluation on incorrect calls
   * MNIST  
     * Used KNN Classifier with 96.5% accuracy
-    * Used CNN with accuracy of 98.5% accuracy   
+    * Used CNN with accuracy of 98.5% accuracy  
+  * Redbull and Blood Pressure Statistic Analysis and NN
+    * Uses some basic statistics check and visualizations of differences
+    * Uses simple NN to perform a regression with MAE evaluation 
