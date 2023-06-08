@@ -13,4 +13,7 @@ Repo containg kaggle work and notebooks
     * Used CNN with accuracy of 98.5% accuracy  
   * Redbull and Blood Pressure Statistic Analysis and NN
     * Uses some basic statistics check and visualizations of differences
-    * Uses simple NN to perform a regression with MAE evaluation 
+    * Uses simple NN to perform a regression with MAE evaluation
+  * Panic Disorder Detection  
+    * Visualizations of properties of positive class
+    * Random Forest Tree Regression 
